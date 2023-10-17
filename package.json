@@ -1,0 +1,9 @@
+{
+  "name": "crowdin-demo",
+  "scripts": {
+    "crowdin": "crowdin"
+  },
+  "devDependencies": {
+    "@crowdin/cli": "^3.14.0"
+  }
+}
